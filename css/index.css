@@ -2,7 +2,9 @@ body {
     background-color: #ebebeb;
 }
 #main-page {
-    background-image: url(img/van-for-header.jpg);
+    background-image: url(../img/van-for-header.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 .navigation h2 {
     font-family: Helvetica;
