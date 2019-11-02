@@ -1,3 +1,54 @@
-iframe {
-    width=400px: height=300px: frameborder=0:  allowfullscreen=""
+body {
+    background-color: #ebebeb;
+}
+#main-page {
+    background-image: url(img/van-for-header.jpg);
+}
+.navigation h2 {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: #021f54;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.navigation a{
+    text-decoration: none;
+}
+#title{
+    font-family: Helvetica;
+    font-size: 26px;
+    color: #021f54;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#heading {
+    font-family: Helvetica;
+    font-size: 26px;
+    color: #021f54;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#tagline {
+    font-family: Helvetica;
+    font-size: 26px;
+    color: #ebebeb;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+article {
+    font-family: Helvetica;
+    font-size: 18px;
+    color: #021f54;
+}
+label {
+    font-family: Helvetica;
+    font-size: 24px;
+    color: #021f54;
+    text-transform: bold;
+}
+#button {
+    font-family: Helvetica;
+    font-size: 18px;
+    color: #021f54;
+    text-transform: bold;
 }
