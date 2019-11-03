@@ -6,7 +6,10 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
 }
-.navigation h2 {
+.navigation li {
+    list-style-type: none;
+}
+.navigation a {
     font-family: Helvetica;
     font-size: 22px;
     color: #021f54;
@@ -46,11 +49,11 @@ label {
     font-family: Helvetica;
     font-size: 24px;
     color: #021f54;
-    text-transform: bold;
+    font-weight: bold;
 }
 #button {
     font-family: Helvetica;
     font-size: 18px;
     color: #021f54;
-    text-transform: bold;
+    font-weight: bold;
 }
